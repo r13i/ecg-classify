@@ -1,5 +1,7 @@
 # ecg-classify
-Classifying Heartbeat Arrhythmia using novel features (AR coefficients + RR distance). [Work in Progress]
+Classifying Heartbeat Arrhythmia using novel features (AR coefficients + RR distance).
+
+Full explanation available in [this notebook](./ecg_prototyping.ipynb) (You can explore it on your browser!).
 
 ### Introduction
 In this project, I implement a heartbeat arrhythmia classification algorithm to separate normal heartbeats (N) from Ventricular Ectopic Beats (VEB). This work is based on the paper _"Heartbeats classification using QRS and T waves autoregressive features and RR interval features", Adnane M, Belouchrani A._ (see references).
